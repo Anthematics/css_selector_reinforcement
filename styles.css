@@ -1,0 +1,22 @@
+p
+{
+color: blue
+}
+
+a:hover{
+color: red
+}
+
+h1{
+	font-size: 200px
+}
+
+ul>li {
+	display:inline-block;
+}
+
+/*Make it so the colour of the links changes when you hover your mouse over them.
+
+Enlarge the "Hello" heading.
+
+Set the lis containing the bear images to display: inline-block; (while leaving the lis in the nav as is).*/*/
